@@ -2,7 +2,9 @@
 
 int main(void)
 {
+  int a;
   // Since this 'hello' program is for my Git hub, perhaps 'Hello Internet' is most appropriate :)
-  printf("Hello Internet!\n");
+  printf("Input a anything!\n");
+  scanf("%d",&a)
   return 0;
 }
